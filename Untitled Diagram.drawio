@@ -1,1 +1,190 @@
-<mxfile host="app.diagrams.net" modified="2020-06-11T05:56:23.822Z" agent="5.0 (Windows)" etag="o1W23bMaOuYQ4Vl6yvOs" version="13.2.1" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7Vxbc6s2EP41ekyHiwXiETA5PW3Saeu2eVZsYjPByAWlts+v7wqEHYzS+mAc+UEznoy0CBn07eXblRzkxuvdl5JuVo9skebIsRY75E6R4wSWB3+FYN8IfNtpBMsyWzQi+yiYZd9SKbSk9C1bpFVnIGcs59mmK5yzokjnvCOjZcm23WEvLO9+64Yu055gNqd5X/qULfiqkRLHP8p/TLPlqv1m2wuaK2vaDpZvUq3ogm3fidwEuXHJGG9a612c5mLt2nV5+rp/yh9evS8//Vb9Tf+Mfv7jl7/umsnuv+eWwyuUacEHT32XbPMZ3Sclrujzim/Y425zh5up/6H5m1wvlASI2CgiKPFQEKMQGi4i8PFlI4rrhoOie7kwfN+udrXN1jktoBe9sILP5BUL+vNVli8e6J69iXeoOJ2/tr1oxcrsG4ynOVyyQQCXSy6VyfE6I2biTjlnmVYw5td2YewT0SPddQY+0Iq3T8PynG6q7Ll+PnHjmpbLrIgY52wtB9E8WxbQnsNcadm+U/NU9gT6cvXSkqe7E3X7H6zsgwKB4aVsnfJyD/fJWSZS5fbd7vaowLYnZav3youlsVJpNMvDzEfFgIbUje/QE0+hJ1ioR2ShxEcBRmH4ddpTB1gWXqNZstc0ZjmDRZwWrNGPLM9PRNWGzrNi+ZC+iBeaHCW/y3cUIgbL/ZLXhrjKFou0EPAyTjl9PujahmUFr9cAR/CBpYqtHzDC8Ewx9O1jHz5ieMljVsBj0qxGLQVF2aZCWTqQO+dC/rGt9SGXGDveeRg714LYV0Dso3CKSCAa0QQFoQF4OMDY0QwwUfp6MN3INwCPALBPNAMcKJ10lCAyMQCPALBtTTQj3JLqDsQNTYvrBhYB2UA8HGL3TKp1NYidPiUHYmUo+GdT8KEc3LHItTTDkPDLzd+5cRbuqGi4Jzg4saSrF3yciC7B9SW3bgD4Fopsg/4F6Gun6I6Ko4OJRyh0D7ZuTPwikLXTdKzy42DZHoqmohFikXUfG62tG9CHg66fumOVY69LrSSq4Z+iwDKoj4u6djaPVQ4dwJ6ItFyA7YrkHL5CVGJAAxLVVaMBwzUA6yZ0uF+VuZ/F7yGvuwbj4RgT3bTNVW2jYZGQEa9uuMLPmxz+07fRhu6jtXFjfE35IIc/0RQsuAAxPP8/3YJ746m8ZyuwNjtqI0KsPV93VaS+t+UCEgKJe9MgwtIN6MNB156/u+oiDbjrgKCk5u6hqcNdArH+bN1z1HkbYFyHZ7BhUXQlKGqIHBZdyNwF/LEYJhw9FoenDLW7DrXrMjvXOZfatao1vsq4CpXpK4ip65zhHxrzu2FqNzE0/pOw1s7xPFVyf6jXgpsPBMSilOsj0k/lDdbnY62d2nnq3ddD2A8nYpumH+QTRwwI+0dvTLQfJdrfYrhXZQEm3A9zC/6Nh3v1yUoT7sfHWnu491VHLJvgbqL8KBBrj/K+qjB7fpTv13ZMlB8lyp9u15wf5dsdwPFVRVUHMlF+kFvwP0D/VqK8ryrgmP2aESHWH9zVdRvzE5nRINYf3NU/aTY/cxsNYv27M/4HJ2hNSW58sLUfofTP2mM3GF+A8RUPSUL3+B8y6mvv/s2Im/wL</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-11T06:47:34.226Z" agent="5.0 (Windows)" etag="68Oxt9X__a8HIHwuJuQq" version="13.2.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="764" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="-EwlSayEr5sabhtpoMxp-5" value="選木データ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-6" value="地番ID" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-5" vertex="1">
+          <mxGeometry y="26" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-7" value="等級" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-5" vertex="1">
+          <mxGeometry y="52" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-8" value="長級" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-5" vertex="1">
+          <mxGeometry y="78" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-9" value="径級" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-5" vertex="1">
+          <mxGeometry y="104" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-0" value="本数" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="-EwlSayEr5sabhtpoMxp-5">
+          <mxGeometry y="130" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-1" value="購入者" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="-EwlSayEr5sabhtpoMxp-5">
+          <mxGeometry y="156" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-10" value="材積量" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-5" vertex="1">
+          <mxGeometry y="182" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-62" value="村内購入伝票" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="320" width="120" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-63" value="購入者" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-62" vertex="1">
+          <mxGeometry y="26" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-64" value="商品名" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-62" vertex="1">
+          <mxGeometry y="52" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-65" value="材積量" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-62" vertex="1">
+          <mxGeometry y="78" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-25" value="IDデータ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-26" value="地番ID" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-25" vertex="1">
+          <mxGeometry y="26" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-27" value="所有者情報" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-25" vertex="1">
+          <mxGeometry y="52" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-28" value="団地ID" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-25" vertex="1">
+          <mxGeometry y="78" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-56" value="施業業者" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-25" vertex="1">
+          <mxGeometry y="104" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-57" value="運材業者" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-25" vertex="1">
+          <mxGeometry y="130" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-58" value="放棄/非放棄" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-25" vertex="1">
+          <mxGeometry y="156" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-59" value="FSC/非FSC" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-25" vertex="1">
+          <mxGeometry y="182" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-67" value="村外伝票①" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="320" width="120" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-68" value="購入者" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-67" vertex="1">
+          <mxGeometry y="26" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-69" value="商品名" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-67" vertex="1">
+          <mxGeometry y="52" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-70" value="重量" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-67" vertex="1">
+          <mxGeometry y="78" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-35" value="商品データ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="40" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-36" value="商品名" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-35" vertex="1">
+          <mxGeometry y="26" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-61" value="等級" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-35" vertex="1">
+          <mxGeometry y="52" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-37" value="径級区分" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-35" vertex="1">
+          <mxGeometry y="78" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-38" value="単価" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-35" vertex="1">
+          <mxGeometry y="104" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-71" value="村外伝票②" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="320" width="120" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-72" value="購入者" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-71" vertex="1">
+          <mxGeometry y="26" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-73" value="等級" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-71" vertex="1">
+          <mxGeometry y="52" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-74" value="径級" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-71" vertex="1">
+          <mxGeometry y="78" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-75" value="長級" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-71" vertex="1">
+          <mxGeometry y="104" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-76" value="材積量" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-71" vertex="1">
+          <mxGeometry y="130" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-EwlSayEr5sabhtpoMxp-77" value="径級" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-EwlSayEr5sabhtpoMxp-71" vertex="1">
+          <mxGeometry y="156" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-6" value="村内選木単価" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="40" width="120" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-7" value="用材/チップ材" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-6">
+          <mxGeometry y="26" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-8" value="放棄/非放棄" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-6">
+          <mxGeometry y="52" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-9" value="単価" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-6">
+          <mxGeometry y="78" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-15" value="村内運材単価" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="40" width="120" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-16" value="用材/チップ材" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-15">
+          <mxGeometry y="26" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-17" value="放棄/非放棄" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-15">
+          <mxGeometry y="52" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-18" value="単価" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-15">
+          <mxGeometry y="78" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-2" value="村外運材単価" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="840" y="40" width="120" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-3" value="運材先" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-2">
+          <mxGeometry y="26" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-4" value="単価" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-2">
+          <mxGeometry y="52" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-21" value="荷降ろしグラップル料" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=12;spacing=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="320" width="120" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-22" value="用材/チップ材" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-21">
+          <mxGeometry y="26" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-23" value="放棄/非放棄" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-21">
+          <mxGeometry y="52" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-24" value="単価" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-21">
+          <mxGeometry y="78" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-25" value="荷積みグラップル料" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=12;spacing=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="320" width="120" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-26" value="用材/チップ材" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-25">
+          <mxGeometry y="26" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-27" value="放棄/非放棄" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-25">
+          <mxGeometry y="52" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-28" value="単価" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-25">
+          <mxGeometry y="78" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-29" value="購入明細" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="560" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-30" value="購入者" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-29">
+          <mxGeometry y="26" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-31" value="商品名" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-29">
+          <mxGeometry y="52" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-32" value="材積量" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-29">
+          <mxGeometry y="78" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="P39CNKcLWWVyWezCmQfV-33" value="金額" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="P39CNKcLWWVyWezCmQfV-29">
+          <mxGeometry y="104" width="120" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
